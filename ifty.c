@@ -12,7 +12,7 @@ int array [1000];
 int i,arry_len=5;
 printf("enter the array length/n");
 scanf("%d",&arry_len);
-
+//mememe
 for(i=0; i<arry_len; i++)
 {
     scanf("%d",&array[i]);
